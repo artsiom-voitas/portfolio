@@ -5,15 +5,6 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a target="_blank" href="https://github.com/artyom-voitas/portfolio/">
-    <img src="/public/logo512.png" alt="Logo" width="80" height="80">
-  </a>
-
-<h3 align="center">Portfolio</h3>
-
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
@@ -22,7 +13,7 @@ This application contains my portfolio during my training in frontend developmen
 
 ### Built With
 
-- [![React][react.js]][react-url]
+[![React][react.js]][react-url]
 
 <!-- CONTACT -->
 
