@@ -1,0 +1,14 @@
+.content {
+  display: flex;
+  align-items: center;
+
+  &__text {
+    display: flex;
+    flex-direction: column;
+  }
+
+  &__imgs {
+    display: flex;
+    flex-direction: column;
+  }
+}

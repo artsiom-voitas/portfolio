@@ -1,0 +1,50 @@
+.App {
+  color: #ffff;
+}
+
+.container {
+  max-width: 1200px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.link {
+  color: #ffff;
+  cursor: pointer;
+}
+
+.main {
+  font-size: 1.6rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+
+  &__title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin: 0 0 2rem;
+  }
+
+  &__content {
+    display: flex;
+    justify-content: space-between;
+
+    p:not(:last-child) {
+      margin-bottom: 1rem;
+      max-width: 600px;
+    }
+
+    img {
+      height: 150px;
+    }
+
+    ul {
+      list-style: circle;
+      list-style-position: inside;
+      margin-bottom: 2rem;
+    }
+
+    li:not(:last-child) {
+      margin-bottom: 0.5rem;
+    }
+  }
+}
