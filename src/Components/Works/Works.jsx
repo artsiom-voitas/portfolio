@@ -22,7 +22,7 @@ const Works = React.memo(function Works() {
           time="96 hours"
         />
         <Work
-          link="https://artyom-voitas.github.io/AV-Store/dist/index.html"
+          link="https://artyom-voitas.github.io/av-store/dist/index.html"
           img={avStore}
           tech="Pug, SCSS, JS"
           time="120 hours"
