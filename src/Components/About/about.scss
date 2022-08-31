@@ -7,8 +7,14 @@
     flex-direction: column;
   }
 
-  &__imgs {
+  &__img {
     display: flex;
-    flex-direction: column;
+  }
+}
+
+@media (max-width: 830px) {
+  .content {
+    flex-direction: column-reverse;
+    gap: 20px;
   }
 }

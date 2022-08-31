@@ -41,3 +41,20 @@
     max-height: 34px;
   }
 }
+
+@media (max-width: 700px) {
+  .header {
+    &__title {
+      font-size: 2rem;
+    }
+  }
+}
+
+@media (max-width: 400px) {
+  .header {
+    &__logo {
+      height: 25px;
+      width: 25px;
+    }
+  }
+}

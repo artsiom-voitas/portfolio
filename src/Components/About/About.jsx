@@ -1,6 +1,6 @@
 import React from 'react';
-import './about.scss';
 import avatar from '../../images/avatar.jpeg';
+import './about.scss';
 
 const About = React.memo(function About() {
   return (
@@ -35,7 +35,7 @@ const About = React.memo(function About() {
             Software.
           </p>
         </div>
-        <div className="content__imgs">
+        <div className="content__img">
           <img src={avatar} alt="Artsiom's avatar" />
         </div>
       </div>

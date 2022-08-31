@@ -34,7 +34,8 @@
     }
 
     img {
-      height: 150px;
+      max-height: 150px;
+      border-radius: 8px;
     }
 
     ul {
@@ -45,6 +46,14 @@
 
     li:not(:last-child) {
       margin-bottom: 0.5rem;
+    }
+  }
+}
+
+@media (max-width: 830px) {
+  .main {
+    &__title {
+      text-align: center;
     }
   }
 }
