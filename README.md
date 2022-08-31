@@ -21,7 +21,7 @@ This application contains my portfolio during my training in frontend developmen
 
 Artsiom Voitas - [@artyom_voitas](https://twitter.com/artyom_voitas) - artsiom.voitas@gmail.com
 
-Project Link: [https://github.com/artyom-voitas/portfolio](https://github.com/artyom-voitas/portfolio)
+Project Link: <a href="https://artyom-voitas.github.io/portfolio/" target="_blank" rel="noopener">https://artyom-voitas.github.io/portfolio/</a>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
