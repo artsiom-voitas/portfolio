@@ -94,3 +94,18 @@
     }
   }
 }
+
+@media (max-width: 899.75px) {
+  .work {
+    &__link:hover {
+      min-height: 21rem;
+    }
+    .work__img img {
+      opacity: 1;
+    }
+
+    .work__content {
+      opacity: 1;
+    }
+  }
+}

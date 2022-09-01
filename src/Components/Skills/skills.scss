@@ -3,6 +3,13 @@
   grid-template-columns: repeat(4, 1fr);
   gap: 2rem;
 }
+
+@media (max-width: 899.75px) {
+  .skills {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
 @media (max-width: 629.75px) {
   .skills {
     grid-template-columns: repeat(2, 1fr);

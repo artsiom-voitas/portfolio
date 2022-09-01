@@ -30,6 +30,7 @@
 
   &__img {
     margin-bottom: 5rem;
+
     img {
       height: 10rem;
     }
@@ -62,13 +63,13 @@
 }
 
 @media (max-width: 899.75px) {
-  .skills {
-    grid-template-columns: repeat(3, 1fr);
-  }
+  .skill {
+    cursor: default;
 
-  .skill__title {
-    opacity: 1;
-    visibility: visible;
-    transform: translateY(0);
+    &__title {
+      opacity: 1;
+      visibility: visible;
+      transform: translateY(0);
+    }
   }
 }

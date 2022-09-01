@@ -9,26 +9,28 @@ const About = React.memo(function About() {
       <div className="main__content content">
         <div className="content__text">
           <p>
-            My name is Artsiom Voitas. I'm 21 years old and I live in Minsk, Belarus. I'm a graduate
-            of the Belarus State Economic University (2022).
+            Hi, I'm Artyom Voitas, and I graduated from the Belarus State Economic University in
+            2015 with a degree in Economics. I've always been interested in IT and I started
+            studying Front-end development at IT Shatle.
           </p>
           <p>
-            I graduated with honors from the IT SHATLE courses:{' '}
+            Graduated from the courses with honors:{' '}
             <a
               href="https://drive.google.com/file/d/1--DSs7qX8PJDaS59aePLBn2oCxl_RkJ3/view?usp=sharing"
               className="link"
               target="_blank"
               rel="noreferrer">
-              HTML/CSS (May 2022)
+              HTML/CSS
             </a>{' '}
-            and{' '}
+            in May and{' '}
             <a
               href="https://drive.google.com/file/d/1-9mDbzkJwLTLJov2lpmbSPAPqMWS8xhE/view?usp=sharing"
               className="link"
               target="_blank"
               rel="noreferrer">
-              JavaScript + React (August 2022).
+              JavaScript + React
             </a>
+            {''} in August 2022.
           </p>
           <p>
             In May-July 2022, I did an internship (commercial development on HTML/CSS) at Lomray
@@ -36,7 +38,7 @@ const About = React.memo(function About() {
           </p>
         </div>
         <div className="content__img">
-          <img src={avatar} alt="Artsiom's avatar" />
+          <img src={avatar} alt="Artyom's avatar" />
         </div>
       </div>
     </div>
