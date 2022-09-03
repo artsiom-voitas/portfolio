@@ -18,13 +18,13 @@ const Works = React.memo(function Works() {
         <Work
           link="https://artyom-voitas.github.io/github-dashboard/#/"
           img={githubDashboard}
-          tech="ReactJS, JS, SCSS"
+          tech="React, Redux, JS, Bootstrap, SCSS"
           time="56 hours"
         />
         <Work
           link="https://artyom-voitas.github.io/av-store/dist/index.html"
           img={avStore}
-          tech="JS, Pug, SCSS, Webpack"
+          tech="JS, Pug, SCSS, Webpack, Bootstrap"
           time="72 hours"
         />
         <Work
