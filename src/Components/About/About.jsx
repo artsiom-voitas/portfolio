@@ -9,7 +9,7 @@ const About = React.memo(function About() {
       <div className="main__content content">
         <div className="content__text">
           <p>
-            Hi, I'm Artyom Voitas, and I graduated from the Belarus State Economic University in
+            Hi, I'm Artsiom Voitas, and I graduated from the Belarus State Economic University in
             2022 with a degree in Economics. I've always been interested in IT and I started
             studying Front-end development at IT Shatle.
           </p>
